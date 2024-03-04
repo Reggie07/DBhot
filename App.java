@@ -3,6 +3,6 @@ public class App{
 		System.out.println("Hello DBHot");
 		System.out.println("增加了短视频功能");
 		System.out.println("增加了约饭功能");
-		System.out.println("增加了短视频功能");
+		System.out.println("增加了商城功能100%");
 	}
 }
